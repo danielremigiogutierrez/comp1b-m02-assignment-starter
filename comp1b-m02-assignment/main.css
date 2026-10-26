@@ -11,10 +11,10 @@ a:focus-visible {
 }
 
 .article-card {
-  width: 375px;
+  width: 600px;
   max-width: 100%;
-  padding: 20px;
+  padding: 30px;
   border: 3px solid;
-  margin: 0 0 1rem;
+  margin: 0 3rem 6rem;
   box-sizing: content-box;
 }

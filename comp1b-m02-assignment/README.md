@@ -41,9 +41,9 @@ Final flexible-card choices: [sizing, padding, border and margin decisions]
 
 | Check | Actual result / correction / retest |
 | --- | --- |
-| 375px | [375px, padding 20px, border 3px, margin 0 0 1rem] [375, 421, 421] [Because the margins did not affect the horizontal size, it was the same.]|
-| 1024px | [record] |
-| CSS validation | [record] |
+| 375px | [375px, padding 20px, border 3px, margin 0 0 1rem] [375, 421, 421] [Because the margins did not affect the horizontal size, the footprint was the same.] |
+| 1024px | [1024px, padding 20px, border 3px, margin 0 0 1rem] [1024, 1070, 1070] [Like earlier, the margins did not affect the horizontal size, so the footprint was the same.] |
+| CSS validation | ['Congratulations! No Error Found.'] |
 
 ## Independent transfer check
 
