@@ -30,7 +30,7 @@ Write actual observations in this README.md. Replace placeholders with your resu
 
 | Controlled state | Content width | Border-box width | Outside left / right margins | Total horizontal footprint | Prediction and measured result |
 | --- | --- | --- | --- | --- | --- |
-| 240px content-box | [240px] | [2px] | [12px each] | [314px] | [After the lesson in class, I remembered it would be 240, 276, 300. I was correct this time.] |
+| 240px content-box | [240px] | [276px] | [12px each] | [300px] | [After the lesson in class, I remembered it would be 240, 276, 300. I was correct this time.] |
 | 240px border-box | [record] | [record] | [record each] | [record] | [explain] |
 
 ## Display and flexible-card evidence
