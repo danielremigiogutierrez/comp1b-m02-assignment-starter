@@ -41,7 +41,7 @@ Final flexible-card choices: [sizing, padding, border and margin decisions]
 
 | Check | Actual result / correction / retest |
 | --- | --- |
-| 375px | [record] |
+| 375px | [375px, padding 20px, border 3px, margin 0 0 1rem] [375, 421, 421] [Because the margins did not affect the horizontal size, it was the same.]|
 | 1024px | [record] |
 | CSS validation | [record] |
 
@@ -63,13 +63,13 @@ Write actual observations in this README.md. Replace placeholders with your resu
 
 | Action / input / conditions | Prediction before running | Actual before change | My change or none | Actual after / explanation |
 | --- | --- | --- | --- | --- |
-| [specific case] | [prediction] | [observation] | [file / selector / change or none] | [retest] |
+| [] | [prediction] | [observation] | [file / selector / change or none] | [retest] |
 
 ## Submission checklist
 
 - [ ] My source and README belong to this task’s separate folder/repository.
 - [ ] I saved, committed, pushed, and opened this repository on GitHub to verify the files.
-- [ ] Repository URL: [THIS repository]
+- [ ] Repository URL: [https://github.com/danielremigiogutierrez/comp1b-m02-assignment-starter]
 - [ ] Live GitHub Pages URL(s), when required: [THIS project’s deployed URL(s)]
 - [ ] I submitted THIS repository URL to the matching Canvas item using Website URL and checked the submission confirmation.
 
