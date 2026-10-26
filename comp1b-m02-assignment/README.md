@@ -63,7 +63,7 @@ Write actual observations in this README.md. Replace placeholders with your resu
 
 | Action / input / conditions | Prediction before running | Actual before change | My change or none | Actual after / explanation |
 | --- | --- | --- | --- | --- |
-| [] | [prediction] | [observation] | [file / selector / change or none] | [retest] |
+| [600px, max-width 100%, padding 30px, border 3px, margin 0 3rem 6rem] | [I predict it will be 600, 666, 762 because the border box measurement in a content-box adds both padding & border sizes from left & right to the width. Plus, the footprint further adds the margin size from both sides as well.] | [I was correct. However, I want to change the max-width to a smaller percentage to see what happens.] | [max-width: 10%] | [The box still worked. The width of it was pretty thin that it cramped the text inside. But luckily, it wasn't enough for the text to start breaking outside of the box.] |
 
 ## Submission checklist
 
