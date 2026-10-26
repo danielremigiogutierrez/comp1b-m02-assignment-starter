@@ -31,11 +31,11 @@ Write actual observations in this README.md. Replace placeholders with your resu
 | Controlled state | Content width | Border-box width | Outside left / right margins | Total horizontal footprint | Prediction and measured result |
 | --- | --- | --- | --- | --- | --- |
 | 240px content-box | [240px] | [276px] | [12px each] | [300px] | [After the lesson in class, I remembered it would be 240, 276, 300. I was correct this time.] |
-| 240px border-box | [record] | [record] | [record each] | [record] | [explain] |
+| 240px border-box | [204px] | [240px] | [12px each] | [264px] | [Like earlier, the lesson helped me see it would be 204, 240, 264.] |
 
 ## Display and flexible-card evidence
 
-Block / inline / inline-block comparison: [what changed for the badge and why]
+Block / inline / inline-block comparison: [When I use either block or inline-block, the box stays intact. They would move a little (up & down) whenever I would flip between the two. However, there wasn't really a significant difference. However, when I used inline, the box fell apart. It broke and didn't hold the content inside anymore.]
 
 Final flexible-card choices: [sizing, padding, border and margin decisions]
 

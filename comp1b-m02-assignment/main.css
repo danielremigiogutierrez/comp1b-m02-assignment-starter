@@ -15,5 +15,6 @@ a:focus-visible {
   padding: 16px;
   border: 2px solid;
   margin: 12px;
-  box-sizing: border-box;
+  display: inline-block;
+  box-sizing: content-box;
 }
