@@ -49,11 +49,11 @@ Final flexible-card choices: [sizing, padding, border and margin decisions]
 
 Answer the new case in the matching Canvas assignment. Predict before using the inspector; explain the rule behind your answer, then record your own measured test and correction.
 
-- Case and conditions: [identify the assignment case]
-- Prediction and calculation: [your reasoning]
-- Inspector observation: [actual values and behavior]
-- Minimal correction and reason: [your proposal]
-- Retest and explanation: [actual result]
+- Case and conditions: [280px width, 20px padding, 3px border, 12px margin, content-box]
+- Prediction and calculation: [I think it will show up as 280, 326, 350. I think by adding the left & right sides of both padding and border measurements, you get the border box, which I ended up getting 326px. By adding both sides of margin, I ended up with 350.]
+- Inspector observation: [I saw that I was correct. It gave me the answer I predicted.]
+- Minimal correction and reason: [I already got the correct answer.]
+- Retest and explanation: [Same answer as above.]
 
 Temporary inspector experiments do not replace the assignment's final saved flexible-card CSS.
 
