@@ -9,3 +9,11 @@ a:focus-visible {
   outline: 3px solid #9c3a00;
   outline-offset: 3px;
 }
+
+.article-card {
+  width: 240px;
+  padding: 16px;
+  border: 2px solid;
+  margin: 12px;
+  box-sizing: content-box;
+}
